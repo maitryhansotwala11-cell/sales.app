@@ -1,5 +1,5 @@
 import streamlit as st
-import joblib
+import joblib as jb
 import pandas as pd
 
 # Load the trained Linear Regression model
